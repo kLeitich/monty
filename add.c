@@ -22,3 +22,4 @@ void m_add(stack_t **stack, unsigned int line_number)
 	m_pop(stack, line_number);
 	(*stack)->n += n;
 }
+

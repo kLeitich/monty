@@ -36,3 +36,4 @@ stack_t *add_node(stack_t **stack, const int n)
 		*stack = new;
 	return (new);
 }
+
